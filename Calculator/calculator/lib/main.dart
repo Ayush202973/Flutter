@@ -126,7 +126,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 child: Text(
                   textToDisplay,
                   style: const TextStyle(
-                      color: Colors.black,
+                      color: Colors.white,
                       fontSize: 50,
                       fontWeight: FontWeight.w500),
                 ),

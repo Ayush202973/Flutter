@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+//import 'package:xten_project/home_page.dart';
+//import 'package:xten_project/login_page.dart';
 import 'package:xten_project/splash_screen.dart';
+//import 'package:xten_project/splash_screen.dart';
 
 //import 'package:xten_project/design2.dart';
 
